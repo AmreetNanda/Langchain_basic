@@ -139,16 +139,15 @@ Open in your browser:
 👉 Enter the prompt in the text bex and hit enter.
 👉 The model will then process the prompt entered and will generate the appropriate response accordingly.
 ```
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 ## Demo
 ### 1. Famous person Demo
-
+https://github.com/user-attachments/assets/23d45852-8eaf-441e-863f-061d7f4566d1
 
 ### 2. Financial advice Demo
-
+https://github.com/user-attachments/assets/b954d161-c103-40a9-9f49-1c789f94b274
 
 ### 3. Language Translation Demo
+https://github.com/user-attachments/assets/9ae1ca15-97c9-4204-92cc-31d379683249
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
