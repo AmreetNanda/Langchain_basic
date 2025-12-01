@@ -145,10 +145,10 @@ Open in your browser:
 [MIT](https://choosealicense.com/licenses/mit/)
 ## Demo
 ### 1. Famous person Demo
-https://github.com/user-attachments/assets/6f71992b-b37d-4a12-8161-529a68c87db1
+
 
 ### 2. Financial advice Demo
-https://github.com/user-attachments/assets/7c99ca5d-1ff8-45c6-bf89-0f9bda23b108
+
 
 ### 3. Language Translation Demo
-https://github.com/user-attachments/assets/c8e6ba1c-8a77-4a2e-8a04-dce1d64e6bc3
+
